@@ -1,9 +1,25 @@
 # DAM-2025
-Contenidos DAM — Repositorio de Asignaturas
+# 📚 Contenidos DAM — Repositorio de Asignaturas
 
-Repositorio centralizado para almacenar, versionar y compartir los materiales docentes de las asignaturas del ciclo formativo DAM: Bases de datos, Acceso a datos, Sistemas Informáticos, Sistemas de gestión empresarial y Proyecto. Está pensado para uso por el profesorado y el alumnado: apuntes, guías de práctica, ejercicios, exámenes, scripts, presentaciones y recursos multimedia.
-Objetivo
-Centralizar y estructurar todos los materiales didácticos de las asignaturas de DAM para:
-Facilitar la reutilización y actualización por parte del profesorado.
-Proveer recursos claros y organizados para el alumnado.
-Mantener trazabilidad de cambios y permitir contribuciones (pull requests).
+¡Bienvenido/a al repositorio oficial de contenidos del **Ciclo Formativo de Desarrollo de Aplicaciones Multiplataforma (DAM)**!  
+Aquí encontrarás todos los materiales organizados por asignaturas: teoría, prácticas, recursos y ejemplos reales que te ayudarán a aprender y poner en práctica tus conocimientos.
+
+---
+
+## 🎯 Objetivo
+Este repositorio busca centralizar y organizar los materiales docentes de las siguientes asignaturas:
+
+- 🗄️ **Bases de datos**  
+- 🔗 **Acceso a datos**  
+- 💻 **Sistemas Informáticos**  
+- 🏢 **Sistemas de Gestión Empresarial**  
+- 🚀 **Proyecto**
+
+El objetivo es que profesorado y alumnado puedan acceder fácilmente a los recursos, mantenerlos actualizados y colaborar en su mejora.
+
+---
+
+## 🗂️ Estructura del repositorio
+
+La organización general de carpetas será la siguiente:
+
